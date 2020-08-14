@@ -1,0 +1,20 @@
+{
+  "name": "banktopup-sdk-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Banktopup/banktopup-sdk-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "man": "src/banktopup.js",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
