@@ -1,6 +1,6 @@
 {
-  "name": "banktopup-sdk-js",
-  "version": "1.0.0",
+  "name": "banktopup-sdk",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git@github.com:Banktopup/banktopup-sdk-js.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "banktopup.com",
   "license": "ISC",
   "man": "src/banktopup.js",
   "dependencies": {
